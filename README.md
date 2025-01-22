@@ -24,7 +24,6 @@ Aplikasi sederhana untuk menampilkan daftar data dari API JSONPlaceholder. Diran
 
 ## Struktur Halaman
 
-- Splash Screen: Menampilkan logo dan nama aplikasi selama 3 detik
 - List Data: Menampilkan daftar data dari API dengan infinite scroll
 - Detail Data: Menampilkan detail data (ID, Title, dan Body)
 - Profil: Berisi informasi pengembang aplikasi dan tautan GitHub/Portofolio
