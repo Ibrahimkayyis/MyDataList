@@ -7,7 +7,6 @@ Aplikasi sederhana untuk menampilkan daftar data dari API JSONPlaceholder. Diran
 - Halaman List Data: Menampilkan daftar data dengan infinite scroll
 - Halaman Detail Data: Menampilkan detail data berdasarkan item yang dipilih
 - Halaman Profil: Berisi informasi tentang pengembang aplikasi
-- Splash Screen: Menampilkan logo aplikasi dan nama aplikasi saat startup
 
 ## Cara Install dan Menjalankan Aplikasi
 
